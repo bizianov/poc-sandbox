@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "igentify-intersystems-poc",
+        "ns": "SANDBOX",
+        "active": true
+    }
+}
